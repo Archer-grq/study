@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;commons-io-2.6.jar&apos; to &apos;lib&apos;" description="Move &apos;commons-io-2.6.jar&apos; to &apos;lib&apos;" destination="lib" element1="/work/lib/commons-io-2.6.jar" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1557409741295" updateReferences="true"/>
+</session>

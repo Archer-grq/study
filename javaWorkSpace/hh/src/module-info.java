@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author HASEE
+ *
+ */
+module hh {
+}
